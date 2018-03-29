@@ -12,7 +12,7 @@ import com.isoftstone.hyec.api.client.lecServer.pojo.GoodsEnquiry;
  * @author:  
  * @date: 2018年3月29日 下午3:31:31
  * @version: V1.0
- *
+ * 
  */
 public class LogParamInfo {
 	/**
