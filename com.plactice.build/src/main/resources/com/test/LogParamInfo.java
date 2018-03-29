@@ -9,7 +9,7 @@ import com.isoftstone.hyec.api.client.lecServer.pojo.GoodsEnquiry;
  * 
  * @ClassName: LogParamInfo
  * @Description:TODO(日志收集类)
- * @author: 
+ * @author:  
  * @date: 2018年3月29日 下午3:31:31
  * @version: V1.0
  *
